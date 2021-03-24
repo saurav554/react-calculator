@@ -1,8 +1,10 @@
 {
-  "name": "calculator",
+  "name": "react-bill-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jspdf": "^2.3.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-scripts": "^2.1.1"
